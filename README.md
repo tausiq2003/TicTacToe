@@ -1,4 +1,9 @@
 # TicTacToe
+
+#### Video Demo: https://youtu.be/7UyfpLw_tRE
+
+#### Description: 
+
 This is a tic-tac-toe game made with tkinter. Its an implementation of final project of CS50P.
 
 ## Usage
